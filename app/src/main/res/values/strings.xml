@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A7s212021prac2</string>
+    <string name="tituloinicio">Titulo de aplicacion</string>
+    <string name="tituloprincipal">Menu de Opciones</string>
+    <string name="btnpSuma">Sumar Numeros</string>
+    <string name="tituloSumar">Sumar 2 Numeros</string>
+    <string name="etiquertanum1">Ingrese el primer valor</string>
+    <string name="etiquetanum2">Ingrese el segundo valor</string>
+    <string name="btncalcular">Calcular resultado</string>
+</resources>
